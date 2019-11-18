@@ -1,5 +1,7 @@
 package proyecto.com;
-
+/*@author: Álvaro Rodríguez Martínez 
+ *@version: 1.0
+*/
 public class ProyectoARM {
 
 	public static String veredicto(String v1, String v2 ) {		
